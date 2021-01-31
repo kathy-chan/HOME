@@ -2676,6 +2676,10 @@ input, select, textarea {
 			transform: scale(1.05);
 		}
 
+		.image.thumb {
+			text-align: center;
+		}
+
 /* Actions */
 
 	ul.actions {
